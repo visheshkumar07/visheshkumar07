@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vishesh Kumar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="200" src"![image](https://github.com/visheshkumar07/visheshkumar07/assets/175195946/6e08fbc4-7edf-46d0-b210-8f06e674ca68)
-">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkumar07" /> </p>
 
 - 🌱 I’m currently learning **MERN FULL-STACK Technology**
