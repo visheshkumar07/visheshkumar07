@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vishesh Kumar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-
+<img align="right" width="400" src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1360%2f0*gqO3slLmGb4mUeje.gif&ehk=YI5ugJQJqE5sat6Zl3hqgTa24c3yNgFzBytHMXwbd4g%3d"alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkumar07" /> </p>
 
 - 🌱 I’m currently learning **MERN FULL-STACK Technology**
