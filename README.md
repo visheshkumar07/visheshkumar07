@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" width="400" src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1360%2f0*gqO3slLmGb4mUeje.gif&ehk=YI5ugJQJqE5sat6Zl3hqgTa24c3yNgFzBytHMXwbd4g%3d"alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="visheshkumar07" /> </p>
 
-- 🌱 I’m currently learning **MERN FULL-STACK Technology**
+- 🌱 I’m currently working **MERN FULL-STACK Technology**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ vishesh-kumar-ab4543272](www.linkedin.com/in/ vishesh-kumar-ab4543272)
 
